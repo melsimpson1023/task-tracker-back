@@ -8,7 +8,18 @@
 1. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
 1. Ensure the API is functioning properly by running `npm run server`.
 1. Once everything is working, make an initial commit.
-1. Follow the steps in [express-api-deployment-guide](https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide)
+
+## Steps taken
+
+1. Deleted what was in the README.md file and added what I needed.
+
+2. Created task model and added the Schema.
+
+3. Create task.js in the /app/models/ folder.
+
+4. Create task_routes.js in the /app/routes/ folder.
+
+5. Modified the task.js and task_routes.js.
 
 ## Structure
 
