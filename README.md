@@ -21,6 +21,8 @@
 
 5. Modified the task.js and task_routes.js.
 
+6. Created Task shell scripts for create, destroy, and index.
+
 ## Structure
 
 Dependencies are stored in [`package.json`](package.json).
